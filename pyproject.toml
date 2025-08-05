@@ -13,7 +13,8 @@ dependencies = [
     "numpy",
     "pytest",
     "pytest-xdist",
-    "scipy<1.15.0"
+    "scipy<1.15.0",
+    "setuptools>=61.0"
 ]
 requires-python = ">=3.10"
 authors = [
